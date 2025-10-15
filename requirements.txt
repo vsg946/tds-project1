@@ -4,7 +4,8 @@ python-multipart
 httpx
 pydantic
 pydantic-settings
-python-git
+GitPython
 pydantic[email]
+
 
 openai
